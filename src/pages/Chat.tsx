@@ -136,7 +136,7 @@ const Chat = () => {
       </div>
 
       {/* Input */}
-      <div className="sticky bottom-0 bg-card border-t border-border/50 p-4 pb-safe">
+      <div className="sticky bottom-0 bg-card border-t border-border/50 p-4 pb-20">
         <div className="flex items-center gap-2">
           <Button variant="ghost" size="icon" className="shrink-0">
             <Image className="w-5 h-5" />
